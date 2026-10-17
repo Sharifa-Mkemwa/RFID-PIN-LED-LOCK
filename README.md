@@ -4,7 +4,7 @@ A two-factor authentication door lock built with Arduino. Tap a valid RFID card 
 
 ## Demo
 
-![Demonstration](https://github.com/user-attachments/assets/68f5de45-79a0-4490-941c-b6886e1061fc)
+![Demonstration](RFIDPIN.gif)
 
 
 ## Features
